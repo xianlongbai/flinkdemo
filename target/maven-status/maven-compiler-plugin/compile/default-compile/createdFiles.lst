@@ -1,0 +1,8 @@
+com\bxl\flink\stream\FristStreamWC.class
+com\bxl\flink\Utils\WordCountData.class
+com\bxl\flink\Demo.class
+com\bxl\flink\batch\FristWordCount.class
+com\bxl\flink\batch\FristWordCount$1.class
+com\bxl\flink\stream\FristStreamWC$1.class
+com\bxl\flink\batch\FristWordCount$2.class
+com\bxl\flink\stream\FristStreamWC$2.class
